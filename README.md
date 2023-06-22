@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on Asp.Net.<br>📚 I'm currently learning Full Stack .Net Devaloper.<br>💼 I'm looking for a job right now.<br>📮 How to reach me:sedat.ayyldz25@hotmail.com<br>😀 Pornouns:Her
+💻 I'm currently working on Asp.Net.<br>📚 I'm currently learning Full Stack .Net Devaloper.<br>💼 I'm looking for a job right now.<br>📮 How to reach me : sedat.ayyldz25@hotmail.com<br>😀 Pronouns : Her
 
 
 ## 🌐 Socials:
