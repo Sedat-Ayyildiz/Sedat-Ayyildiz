@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on Asp.Net.<br>📚 I'm currently learning Full Stack .Net Devaloper.<br>💼 I'm looking for a job right now.<br>📮 Ask me about sedat.ayyldz25@hotmail.com<br>
+💻 I'm currently working on Asp.Net.<br>📚 I'm currently learning Full Stack .Net Devaloper.<br>💼 I'm looking for a job right now.<br>📮 How to reach me:sedat.ayyldz25@hotmail.com<br>😀 Pornouns:Her
 
 
 ## 🌐 Socials:
@@ -23,3 +23,8 @@
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Full Stack .Net Developer&icon=0&color=4)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
