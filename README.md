@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Asp.Net.<br>I'm currently learning Full Stack .Net Devaloper.<br>I'm looking for a job right now.<br>Ask me about sedat.ayyldz25@hotmail.com<br>
+💻 I'm currently working on Asp.Net.<br>📚 I'm currently learning Full Stack .Net Devaloper.<br>💼 I'm looking for a job right now.<br>📮 Ask me about sedat.ayyldz25@hotmail.com<br>
 
 
 ## 🌐 Socials:
@@ -12,8 +12,8 @@ I'm currently working on Asp.Net.<br>I'm currently learning Full Stack .Net Deva
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Full Stack .Net Developer&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Full Stack .Net Developer&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/sedat_ayyildiz)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Full Stack .Net Developer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
