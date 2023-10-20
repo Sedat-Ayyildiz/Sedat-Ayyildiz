@@ -11,10 +11,6 @@
 
 - 🌱 I’m currently learning **Full Stack .Net Developer**
 
-- 👯 I’m looking to collaborate on **Software Developer office**
-
-- 🤝 I’m looking for help with **find job**
-
 - 💬 Ask me about **Front-end, Back-end and Database**
 
 - 📫 How to reach me **sedat.ayyldz25@hotmail.com**
